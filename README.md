@@ -1,12 +1,14 @@
 <!-- Animação de introdução -->
-
 <p align="center">
   <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/megamanxanimado.svg" width="600" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+<!-- Sobre mim -->
+<p align="center">
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/sobremim.svg" width="400" />
+</p>
 
 - **Introvertido, dedicado, proficiente e organizado**  
 - Sempre buscando aprender novas tecnologias e melhorar minhas habilidades  
@@ -14,7 +16,10 @@
 
 ---
 
-## 🚀 Tecnologias e ferramentas
+<!-- Tecnologias e ferramentas -->
+<p align="center">
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/tecnologias.svg" width="500" />
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -28,7 +33,10 @@
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+<!-- Estatísticas -->
+<p align="center">
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/estatisticas.svg" width="600" />
+</p>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BananaSpritee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
@@ -37,7 +45,10 @@
 
 ---
 
-## 🏆 Conquistas e contribuições
+<!-- Conquistas -->
+<p align="center">
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/conquistas.svg" width="500" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BananaSpritee&theme=onedark&row=1&no-bg=true&no-frame=true" />
@@ -45,13 +56,19 @@
 
 ---
 
-## ⚡ Curiosidade
+<!-- Curiosidade -->
+<p align="center">
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/curiosidade.svg" width="300" />
+</p>
 
 > _"A organização é a base para transformar ideias em realidade."_  
 
 ---
 
-## 🌐 Onde me encontrar
+<!-- Onde me encontrar -->
+<p align="center">
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/ondemeencontrar.svg" width="400" />
+</p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BananaaSprite)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaque-newton-silva-774a72374/)
