@@ -1,5 +1,8 @@
 <!-- Animação de introdução -->
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=30&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Isaque+Newton!;Desenvolvedor+Web+Fullstack;Apaixonado+por+tecnologia+e+inovação" />
+
+<p align="center">
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/inomeado.svg" alt="Isaque Newton Mega Man X" width="600" />
+</p>
 
 ---
 
