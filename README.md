@@ -35,8 +35,8 @@
 ## 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BananaSpritee&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BananaSPritee&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -44,7 +44,7 @@
 ## 🏆 Conquistas e contribuições
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark&row=1&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BananaSpritee&theme=onedark&row=1&no-bg=true&no-frame=true" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 
 ## 🌐 Onde me encontrar
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BananaaSprite)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaque-newton-silva-774a72374/)
 
 ---
 
