@@ -68,7 +68,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4bXRxbzFzdm43OTd6OTFoNGtqeGh2dWs2NnRyenp6b2hpaGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif" alt="Mega Man X" width="250px" />
 
   <!-- Novo GIF -->
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjl2eGx3bXc5dmo1ZTJ6MXdiNjR5ZmNvdjc2NWF0bHNkNWh1aXA5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frMGTqF2PMVug06OFZ/giphy.gif" alt="Mega Man X Extra" width="250px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtqZTJ0MjE1NTdwOTdlZGR0Zzc4djl6dGkxb25qMXl5ZGg2ajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Te1XSSSCVxNeFQ4i3l/giphy.gif" alt="Mega Man X Extra" width="250px" />
 </p>
 
 ---
