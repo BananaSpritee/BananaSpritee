@@ -63,6 +63,20 @@
 
 ---
 
+## 🎨 Extra
+
+<p align="center">
+  <!-- Octocat personalizado -->
+  <img src="./octocat-1754503939907.png" alt="Meu Octocat" width="250px" />
+</p>
+
+<p align="center">
+  <!-- GIF do Mega Man X -->
+  <img src="https://media.giphy.com/media/W4K8vF7kGg6qk/giphy.gif" alt="Mega Man X" width="250px" />
+</p>
+
+---
+
 <!-- Rodapé com efeito animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
