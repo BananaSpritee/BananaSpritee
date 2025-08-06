@@ -6,13 +6,6 @@
 
 ---
 
-<!-- Banner com efeito wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=150&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
----
-
 ## 👨‍💻 Sobre mim
 
 - **Introvertido, dedicado, proficiente e organizado**  
