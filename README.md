@@ -66,15 +66,16 @@
 
 ---
 
+<!-- Container dos três GIFs -->
 <p align="center">
-  <!-- GIF do Mega Man X -->
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4bXRxbzFzdm43OTd6OTFoNGtqeGh2dWs2NnRyenp6b2hpaGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif" alt="Mega Man X" width="250px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4bXRxbzFzdm43OTd6OTFoNGtqeGh2dWs2NnRyenp6b2hpaGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif" width="200px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtqZTJ0MjE1NTdwOTdlZGR0Zzc4djl6dGkxb25qMXl5ZGg2ajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Te1XSSSCVxNeFQ4i3l/giphy.gif" width="200px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwYjl3Nmp2dDl6cWZqNGgzeGo1ZWdyZW9uanZuZnk2ZnNwaHJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiJNLwjvZqe7GjVYaK/giphy.gif" width="200px" />
+</p>
 
-  <!-- Novo GIF -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwYjl3Nmp2dDl6cWZqNGgzeGo1ZWdyZW9uanZuZnk2ZnNwaHJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiJNLwjvZqe7GjVYaK/giphy.gif" alt="Mega Man X Extra" width="250px" />
-
-  <!-- Novo GIF -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtqZTJ0MjE1NTdwOTdlZGR0Zzc4djl6dGkxb25qMXl5ZGg2ajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Te1XSSSCVxNeFQ4i3l/giphy.gif" alt="Mega Man X Extra 2" width="250px" />
+<!-- Frases estilo Mega Man -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=700&lines=Cada+batalha+me+fortalece,+cada+armadura+um+novo+patamar;Diante+de+cada+desafio,+um+novo+poder+a+conquistar;A+força+está+em+me+adaptar+a+cada+batalha" />
 </p>
 
 ---
