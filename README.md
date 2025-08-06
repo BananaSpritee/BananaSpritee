@@ -72,7 +72,7 @@
 
 <p align="center">
   <!-- GIF do Mega Man X -->
-  <img src="https://media.giphy.com/media/W4K8vF7kGg6qk/giphy.gif" alt="Mega Man X" width="250px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4bXRxbzFzdm43OTd6OTFoNGtqeGh2dWs2NnRyenp6b2hpaGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif" alt="Mega Man X" width="250px" />
 </p>
 
 ---
