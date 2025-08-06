@@ -1,3 +1,5 @@
+---
+
 <!-- Animação de introdução -->
 <p align="center">
   <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/bemvindo.svg" width="600" />
