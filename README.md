@@ -1,7 +1,7 @@
 <!-- Animação de introdução -->
 
 <p align="center">
-  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/megamanxanimado" width="600" />
+  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/megamanxanimado.svg" width="600" />
 </p>
 
 ---
