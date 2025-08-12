@@ -61,26 +61,6 @@
 
 ---
 
-<!-- Conquistas -->
-<p align="center">
-  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/conquistas.svg" width="500" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BananaSpritee&theme=onedark&row=1&no-bg=true&no-frame=true" />
-</p>
-
----
-
-<!-- Curiosidade -->
-<p align="center">
-  <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/curiosidade.svg" width="300" />
-</p>
-
-> _"A organização é a base para transformar ideias em realidade."_  
-
----
-
 <!-- Onde me encontrar -->
 <p align="center">
   <img src="https://github.com/BananaSpritee/BananaSpritee/raw/main/Fonte/ondemeencontrar.svg" width="400" />
