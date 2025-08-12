@@ -102,9 +102,9 @@
 
 <!-- Container dos três GIFs -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4bXRxbzFzdm43OTd6OTFoNGtqeGh2dWs2NnRyenp6b2hpaGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif" width="205px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWI4bXRxbzFzdm43OTd6OTFoNGtqeGh2dWs2NnRyenp6b2hpaGg1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sqctAhcpUOFJC/giphy.gif" width="203px" />
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtqZTJ0MjE1NTdwOTdlZGR0Zzc4djl6dGkxb25qMXl5ZGg2ajJkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Te1XSSSCVxNeFQ4i3l/giphy.gif" width="200px" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwYjl3Nmp2dDl6cWZqNGgzeGo1ZWdyZW9uanZuZnk2ZnNwaHJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiJNLwjvZqe7GjVYaK/giphy.gif" width="205px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwYjl3Nmp2dDl6cWZqNGgzeGo1ZWdyZW9uanZuZnk2ZnNwaHJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiJNLwjvZqe7GjVYaK/giphy.gif" width="206px" />
 </p>
 
 ---
