@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BananaSprite">
+  <a href="https://github.com/BananaSpritee">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/isaque-newton-silva-774a72374/">
