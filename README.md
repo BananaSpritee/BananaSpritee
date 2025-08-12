@@ -107,9 +107,4 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHIwYjl3Nmp2dDl6cWZqNGgzeGo1ZWdyZW9uanZuZnk2ZnNwaHJqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiJNLwjvZqe7GjVYaK/giphy.gif" width="200px" />
 </p>
 
-<!-- Frases estilo Mega Man -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=22&center=true&vCenter=true&width=700&lines=Cada+batalha+me+fortalece,+cada+armadura+um+novo+patamar;Diante+de+cada+desafio,+um+novo+poder+a+conquistar;A+força+está+em+me+adaptar+a+cada+batalha" />
-</p>
-
 ---
